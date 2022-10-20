@@ -1,0 +1,15 @@
+.tableContainer {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+table {
+    width: 100%;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+td, th {
+    text-align: center;
+}
